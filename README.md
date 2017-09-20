@@ -1,3 +1,7 @@
+Clone this for a fresh working setup for the course.
+git clone https://github.com/ngenter/moshtests.git 
+npm install
+
 # Moshtests
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
